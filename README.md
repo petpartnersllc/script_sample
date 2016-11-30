@@ -39,7 +39,7 @@ Bash and Powershell are both scriptable command line interpreters that will exec
 
 [Security and Access Control for s3](http://docs.aws.amazon.com/AmazonS3/latest/dev/s3-access-control.html)
 
-## Git
+## Git (Optional, in case you'd like to submit a repository)
 [Github Bootcamp](https://help.github.com/categories/bootcamp/) - Lots of great resources for getting started
 
 [Try Git!](https://try.github.io) - Interact with Git from within your browser.
