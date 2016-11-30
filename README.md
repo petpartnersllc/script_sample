@@ -1,9 +1,9 @@
 # script_sample
 At Pet Partners, we try to automate everything.  We're passionate about code as infrastructure. We also believe one of the best ways to evaluate people looking to join our technology team is by discussing something they have created.  Interested in helping us build and maintain world class infrastructure and software that's fundamentally changing veterinary medicine?  Join our team!  To get started, follow the directions below and then email us your finished script or a link to your code repository.  
 
-Don't worry if you aren't intimately familiar with bash or powershell.  We're open to anyone who can quickly pick up at least the basics  and are excited about learning more and using it on a daily basis.  If you've worked with scripting before, this exercise might take you an hour or two to complete.  If you're new to scripting, it could be a half day, or the better part of a weekend if you really dive into things.  It's really up to you.
+Don't worry if you aren't intimately familiar with bash or powershell.  We're open to anyone who can quickly pick up at least the basics  and is excited about learning more and using these tools on a daily basis.  If you've worked with scripting before, this exercise might take you an hour or two to complete.  If you're new to scripting, it could be a half day, or the better part of a weekend if you really dive into things.  It's really up to you.
 
-For the sample, you'll be using powershell or bash to automate the backup of a database.  At a minimum, we'd like you to create a dump of a running database, and then upload that file on a daily basis to the cloud.  Bonus points if the script can be either run on demand or scheduled to run on a daily basis, generates log files, and any other niceties you'd like to add.
+For the sample, you'll be using powershell or bash to automate the backup of a database.  At a minimum, we'd like you to create a dump of a running database, and then upload that file on a daily basis to the cloud.  Bonus points if the script can be either run on demand or scheduled to run periodically, generates log files, plus any other niceties you'd like to add.
 
 # Instructions
 
