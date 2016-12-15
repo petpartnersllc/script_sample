@@ -33,6 +33,8 @@ Bash and Powershell are both scriptable command line interpreters that will exec
 [List of Bash Learning Resources](https://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/) - Links to learning bash
 
 ## AWS
+[Getting AWS CLI](https://aws.amazon.com/cli/)
+
 [Getting started with s3](https://aws.amazon.com/s3/getting-started/)
 
 [Powershell on AWS](https://aws.amazon.com/documentation/powershell/)
